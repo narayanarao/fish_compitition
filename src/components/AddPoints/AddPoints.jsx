@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
 };
 const AddPoints = () => {
     const classes1 = useStyles();
-    const [loading, setLoading] = useState(false);
+   
 
     useEffect(() => {
       
