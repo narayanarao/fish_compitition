@@ -74,7 +74,7 @@ const AddPoints = () => {
                         <TextField id="standard-basic" label="Points" className={classes1.formControl}/>
                    </div>
                    <div className={classes.addbuttondiv}>
-                     <Button variant="contained" type="submit" disabled={loading} style={btnStyle}>{loading ? 'Loading...' : 'Add'}</Button>
+                     <Button variant="contained" type="submit"  style={btnStyle}>Add</Button>
                    </div>
                </form>
             </div>
