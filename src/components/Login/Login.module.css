@@ -1,0 +1,19 @@
+.loginbox {
+    width: 500px;
+	padding: 20px;
+	display: inline-block;
+	margin: 10px;
+	border: 1px solid #eee;
+	box-shadow: 0px 2px 2px #ccc;
+	margin-left: 400px;
+    margin-top: 4px;
+    background-color:lightgrey
+}
+.btnbackground {
+    color: white;
+    background-color: seagreen;
+}
+.btnbackground:hover{
+    color: white;
+    background-color: seagreen;
+}
